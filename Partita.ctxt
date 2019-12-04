@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Partita()
+comment1.params=
+comment1.target=int\ getDado()
+comment2.params=n
+comment2.target=void\ setDado(int)
+comment3.params=
+comment3.target=void\ generaNumero()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
